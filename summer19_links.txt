@@ -1,0 +1,6 @@
+links:
+https://bacnguyencong.github.io/posts/2019/03/
+https://github.com/bacnguyencong/rbm-pytorch
+https://github.com/HelmetBro/Restricted-Boltzmann-Machines/commits?author=HelmetBro
+http://ciml.info/
+https://github.com/cambridge-mlg/RAT-SPN
